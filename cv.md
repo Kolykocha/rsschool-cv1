@@ -48,7 +48,7 @@ int get_sum(int a , int b) {
 ---
 __Courses:__
 --------
-*RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+* RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
 
 ---
 __Education__
