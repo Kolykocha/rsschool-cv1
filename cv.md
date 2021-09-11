@@ -54,4 +54,4 @@ Omsk state university , FCN, "Mathematics and Computer Science" fourth year.
 ---
 __Languages:__
 -------
-
+English - PreIntermediate.(in progress)
