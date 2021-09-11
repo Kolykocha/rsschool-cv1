@@ -58,4 +58,11 @@ Omsk state university , FCN, "Mathematics and Computer Science" fourth year.
 ---
 __Languages:__
 -------
-English - PreIntermediate.(in progress)
+English - Pre Intermediate.(in progress)
+
+---
+
+__Video  My CV__
+--------
+[Resume](https://www.youtube.com/watch?v=wVWbpFpWTcc)
+
