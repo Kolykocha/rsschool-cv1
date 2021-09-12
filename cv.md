@@ -4,8 +4,10 @@ rsschool-cv
 __Kirill Balaganskii__
 -------
 ---
+
 __Contact information:__
 -------
+
 __Phone:__ +7 913 653 58 37 
 
 __E-mail:__ kirillbalaghanskiii@gmail.com
@@ -14,19 +16,24 @@ __E-mail:__ kirillbalaghanskiii@gmail.com
 
 
 ---
+
 __Briefly About Myself:__
 -------
+
 I am a fourth-year student of OmSU. My specialty is "Mathematics and Computer Science". My goal is to become a web-developer. My strengths: high learning ability, purposeful, hardworking and communicable.
 
 ---
+
 __Skills and Proficiency:__
 -------
 * C, C++
 * Git, GitHub
 * IntelliJ IDEA
 ---
+
 __Code example:__
---------
+-------
+
 Given two integers a and b, which can be positive or negative, find the sum of all the integers between and including them and return it. If the two numbers are equal return a or b.
 ```C
 int get_sum(int a , int b) {
@@ -46,23 +53,28 @@ int get_sum(int a , int b) {
 ```
 
 ---
+
 __Courses:__
---------
+-------
 * RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
 
 ---
+
 __Education__
---------
+-------
+
 Omsk state university , FCN, "Mathematics and Computer Science" fourth year.
 
 ---
+
 __Languages:__
+
 -------
 English - Pre Intermediate.(in progress)
 
 ---
 
 __Video  My CV__
---------
+-------
 [Resume](https://www.youtube.com/watch?v=wVWbpFpWTcc)
 
