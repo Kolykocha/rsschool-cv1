@@ -2,4 +2,4 @@
 
 https://Kolykocha.github.io/rsschool-cv/cv
 
-https://Kolykocha.github.io/rsschool-cv/index
+https://github.com/Kolykocha/rsschool-cv/blob/rsschool-cv-html/index.html
