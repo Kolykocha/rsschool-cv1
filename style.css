@@ -11,12 +11,12 @@
     width: 100%;
 }
 
-.background-code {
+.backgroundcode {
     background-color: #808080;
     padding: 0.5em;
 }
 
-.background-hakki {
+.backgroundhakki {
     background-color: #9932CC;
     flex-grow: 1;
 
@@ -27,7 +27,7 @@
 
 }
 
-.background-head {
+.backgroundhead {
     background-color: #8B008B;
     font-size: 3em;
     display: flex;
@@ -43,7 +43,7 @@
 
 }
 
-.align-none {
+.alignnone {
     display: block;
     border-radius: 50%;
     border: 5px #cfc solid;
@@ -52,7 +52,7 @@
 
 }
 
-.bg-foot {
+.bgfoot {
     background-color: #778899;
 
 }
